@@ -75,6 +75,7 @@ hr{
     padding:10px 30px;
     cursor: pointer;
     direction:rtl;
+    float: right;
 }
 
 #product1{background: url(img/product1.jpg);}
