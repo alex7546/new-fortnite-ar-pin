@@ -31,6 +31,7 @@
 .product-desc{
     font-family: 'Lalezar', cursive;
     direction:rtl;
+    float: right;
 }
 
 .product-desc h3{
